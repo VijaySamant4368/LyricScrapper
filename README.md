@@ -42,7 +42,7 @@ Enter the last line to not add: 5
 ```
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/VijaySamant4368/LyricScrapper/LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/VijaySamant4368/LyricScrapper/blob/main/LICENSE.md) file for details.
 
 ## Contributing
 
